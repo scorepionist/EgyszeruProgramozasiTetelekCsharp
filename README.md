@@ -1,6 +1,7 @@
 # EgyszeruProgramozasiTetelekCsharp
 Egyszerű programozási tételek C#-ban  példafeladatokkal. 
 
+Feladatok:
 1. Határozza meg a tömb elemeinek összegét!
 (sorozatszámítás tétel)
 2. Szerepel-e a tömbben öttel osztható szám?
